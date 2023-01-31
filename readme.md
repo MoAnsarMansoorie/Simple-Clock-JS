@@ -1,4 +1,4 @@
-# Simple JavaScript
+# Simple Clock
 
 ![badge](https://img.shields.io/badge/Project-Simple%20Clock-yellow)
 
