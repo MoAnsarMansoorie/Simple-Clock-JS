@@ -1,18 +1,17 @@
-# Crush Your Competition
+# Simple JavaScript
 
-![badge](https://img.shields.io/badge/project--07-wireless--headphone-brightgreen)
+![badge](https://img.shields.io/badge/Project-Simple%20Clock-yellow)
 
 <!-- # [Link of deploy live project](https://wirelessheadphonepage.netlify.app/) -->
 
-![LCO](./view07.png)
+![LCO](./landingpage.png)
 
-# What I learned from this project-04
+# What I learned from this project:-
 
-- It is helpful to understand the cconcept the position.
-- It is helpful to understand flex.
-- It is helpful to give understanding about the navigation bar.
-- It is good project to clear your about project related.
+- It is helpful to understand the concept of JavaScript.
+- It is helpful to understand align.
+- It is good project to clear concept about Date related.
 
 # Howmany time consumed to make this project.
 
-- It will take less time compare to last 3 projects. But it took 2 hours to make this project.
+- It take only one hour to complete.
